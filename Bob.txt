@@ -1,1 +1,3 @@
 Hi!!! I'm Bob and I'm a new file here.
+
+Here's some additional text in order to test merging branches.
